@@ -28,21 +28,23 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python     - version 3.8.5
+- Numpy      - version 1.19.2
+- Pandas     - version 1.1.3
+- Seaborne   - version 0.11.0
+- MatPlotLib - version 3.3.2
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Mr. S. Anand 
+- Mr. Murtaza
+- Mr. Venkateshan N
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@abhishek-vmishra] - feel free to contact me!
 
 
 <!-- Optional -->
